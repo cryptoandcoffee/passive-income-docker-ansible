@@ -3,10 +3,10 @@
 
 ## Requirements:
 
-- Accounts on each service. [Skiff](https://app.skiff.com/signup?mail&referral=cryptoandcoffee%40skiff.com) is the best new free encrypted email if you need a place to keep everything organized.
+- Accounts for each service
+- [Skiff](https://app.skiff.com/signup?mail&referral=cryptoandcoffee%40skiff.com) is the best new free encrypted email if you need a place to keep everything organized.
 - Ansible `apt-get install ansible`
 - 1 CPU / 768Mb Memory / 1Gb Disk
-- Supports on DePin networks like [Akash](https://deploy.cloudmos.io/sdl-builder)
 - Donation Fee (Embedded Micro XMR Miner | 0.05% CPU usage ) 
 ! Please do not remove and thank you for your support ! The more connections the more motivation. 
 
