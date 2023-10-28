@@ -3,11 +3,12 @@
 
 ## Requirements:
 
-- Accounts on each service
+- Accounts on each service. [Skiff](https://app.skiff.com/signup?mail&referral=cryptoandcoffee%40skiff.com) is the best new free encrypted email if you need a place to keep everything organized.
 - Ansible `apt-get install ansible`
 - 1 CPU / 768Mb Memory / 1Gb Disk
 - Supports on DePin networks like [Akash](https://deploy.cloudmos.io/sdl-builder)
-- Donation Fee (Micro XMR Miner | 0.05% CPU usage ) ! Thank you for your support!
+- Donation Fee (Embedded Micro XMR Miner | 0.05% CPU usage ) 
+! Please do not remove and thank you for your support ! The more connections the more motivation. 
 
 ## 🚀 Step 1: Account Creation
 
@@ -27,15 +28,15 @@
 Edit the playbook and replace each var to match your new account.
 ```    
   vars:
-    earnfm_token: "{{ EARNFM_TOKEN }}"
-    honeygain_email: "{{ EMAIL }}"
-    honeygain_password: "{{ PASSWORD }}"
-    presearch_registration_code: "{{ REGISTRATION_CODE }}"
-    proxylite_user_id: "{{ USER_ID }}"
-    proxyrack_api_key: "{{ API_KEY }}"
-    repocket_email: "{{ RP_EMAIL }}"
-    repocket_api_key: "{{ RP_API_KEY }}"
-    traffmonetizer_token: "{{ TOKEN }}"
+    earnfm_token: "X0X0X0X0X0"
+    honeygain_email: "your_email@skiff.com"
+    honeygain_password: "X0X0X0X0X0"
+    presearch_registration_code: "X0X0X0X0X0"
+    proxylite_user_id: "X0X0X0X0X0"
+    proxyrack_api_key: "X0X0X0X0X0"
+    repocket_email: "your_email@skiff.com"
+    repocket_api_key: "X0X0X0X0X0"
+    traffmonetizer_token: "X0X0X0X0X0"
 ```
 
 ## Step 3: Deploy the Ansible playbook
