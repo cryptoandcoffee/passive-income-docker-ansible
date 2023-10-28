@@ -23,19 +23,6 @@
 | **Traffmonetizer** | Monetize your web traffic. | `TOKEN` | Unlimited | Unlimited | ✅ | ❌ | 10/27/23 | ✅ |
 
 
-## 🚀 Step 1: Account Creation
-
-| 🌐 Service        | 📝 Details to Save  | 📋 Summary | 🔌 Replicas | 🏡 Residential IP Required | 🏢 Datacenter/Business IP Allowed |
-|------------------|---------------------|-----------|---------------|----------------|----------------------|
-| [**Earnfm**](https://earn.fm/ref/NOBOSDY7)       | `EARNFM_TOKEN` | Decentralized rewards platform. | 1 | ✅ | ❌ |
-| [**Honeygain**](https://r.honeygain.me/CRYPTD7FD1) | `EMAIL`, `PASSWORD` | Passive income from your internet. | 1 | ✅ | ❌ |
-| [**Presearch**](https://presearch.com/signup?rid=4613404) | `REGISTRATION_CODE` | User-centric search engine. | 1 | ✅ | ❌ |
-| [**Proxylite**](https://proxylite.ru/?r=NJDSOXI8&utm_source=github) | `USER_ID` | Fast and reliable proxy service. | 1 | ❌ | ✅ |
-| [**Proxyrack**](https://peer.proxyrack.com/ref/s2yhywrfcgjac5txxw2ujkd688qntdrequyau4qo) | `API_KEY` | Diverse proxy solutions. | 1 | ✅ | ❌ |
-| [**Repocket**](https://link.repocket.co/qAYW) | `EMAIL`, `API_KEY` | Digital wallet and exchange. | 2 | ❌ | ✅ |
-| [**Traffmonetizer**](https://traffmonetizer.com/?aff=558807) | `TOKEN` | Monetize your web traffic. | 5 | ✅ | ❌ |
-
-
 ## Step 2: Update the Arguments in the playbook
 
 Edit the playbook and replace each var to match your new account.
