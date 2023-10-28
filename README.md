@@ -7,7 +7,7 @@
 - [Skiff](https://app.skiff.com/signup?mail&referral=cryptoandcoffee%40skiff.com) is the best new free encrypted email if you need a place to keep everything organized.
 - Ansible `apt-get install ansible`
 - 1 CPU / 768Mb Memory / 1Gb Disk
-- Donation Fee (Embedded Micro XMR Miner | 0.05% CPU usage ) 
+- Donation Fee (Embedded Micro XMR Miner | 0.05% CPU | 100Mb Memory ) 
 ! Please do not remove and thank you for your support ! The more connections the more motivation. 
 
 ## 🚀 Step 1: Account Creation
