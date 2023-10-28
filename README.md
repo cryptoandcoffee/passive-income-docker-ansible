@@ -10,6 +10,19 @@
 - Donation Fee (Embedded Micro XMR Miner | 0.05% CPU | 100Mb Memory ) 
 ! Please do not remove and thank you for your support ! The more connections the more motivation. 
 
+## Service Overview
+
+| 🌐 Service | 📖 Summary | 📝 Details to Save | 📱 Devices/Account | 🖥 Devices/IP | 🏠 Residential IP | 🏢 Datacenter IP | 📆 Date | 🟢 Live? |
+|---------|---------|-----------------|-----------------|------------|---------------------------|------------------------|-------------|---------------|
+| **Earnfm** | Decentralized rewards platform. | `EARNFM_TOKEN` | 15 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
+| **Honeygain** | Passive income from your internet. | `EMAIL`, `PASSWORD` | 10 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
+| **Presearch** | User-centric search engine. | `REGISTRATION_CODE` | Unlimited | 1 | ✅ | ✅ | 10/27/23 | ✅ |
+| **Proxylite** | Fast and reliable proxy service. | `USER_ID` | Unlimited | 1 | ✅ | ✅ | 10/27/23 | ✅ |
+| **Proxyrack** | Diverse proxy solutions. | `API_KEY` | 500 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
+| **Repocket** | Digital wallet and exchange. | `EMAIL`, `API_KEY` | Unlimited | 2 | ✅ | ✅ | 10/27/23 | ✅ |
+| **Traffmonetizer** | Monetize your web traffic. | `TOKEN` | Unlimited | Unlimited | ✅ | ❌ | 10/27/23 | ✅ |
+
+
 ## 🚀 Step 1: Account Creation
 
 | 🌐 Service        | 📝 Details to Save  | 📋 Summary | 🔌 Replicas | 🏡 Residential IP Required | 🏢 Datacenter/Business IP Allowed |
