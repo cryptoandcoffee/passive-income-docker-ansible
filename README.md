@@ -22,23 +22,24 @@
 | [**Traffmonetizer**](https://traffmonetizer.com/?aff=558807) | `TOKEN` | Monetize your web traffic. | 30 | ✅ | ❌ |
 
 
+## Step 2: Update the Arguments in the playbook
 
-## 🚀 Step 1: Account Creation
+Edit the playbook and replace each var to match your new account.
+```    
+  vars:
+    earnfm_token: "{{ EARNFM_TOKEN }}"
+    honeygain_email: "{{ EMAIL }}"
+    honeygain_password: "{{ PASSWORD }}"
+    presearch_registration_code: "{{ REGISTRATION_CODE }}"
+    proxylite_user_id: "{{ USER_ID }}"
+    proxyrack_api_key: "{{ API_KEY }}"
+    repocket_email: "{{ RP_EMAIL }}"
+    repocket_api_key: "{{ RP_API_KEY }}"
+    traffmonetizer_token: "{{ TOKEN }}"
+```
 
-| 🌐 Service        | 📝 Details to Save  | 📋 Summary | 🔌 Connections | 🏠 Residential? |
-|------------------|---------------------|-----------|---------------|----------------|
-| [**Earnfm**](https://earn.fm/ref/NOBOSDY7)       | `EARNFM_TOKEN` | Decentralized rewards platform. | 10 | ✅ |
-| [**Honeygain**](https://r.honeygain.me/CRYPTD7FD1) | `EMAIL`, `PASSWORD` | Passive income from your internet. | 5 | ✅ |
-| [**Presearch**](https://presearch.com/signup?rid=4613404) | `REGISTRATION_CODE` | User-centric search engine. | 20 | ✅ |
-| [**Proxylite**](https://proxylite.ru/?r=NJDSOXI8&utm_source=github) | `USER_ID` | Fast and reliable proxy service. | 15 | ❌ |
-| [**Proxyrack**](https://peer.proxyrack.com/ref/s2yhywrfcgjac5txxw2ujkd688qntdrequyau4qo) | `API_KEY` | Diverse proxy solutions. | 25 | ✅ |
-| [**Repocket**](https://link.repocket.co/qAYW) | `EMAIL`, `API_KEY` | Digital wallet and exchange. | 10 | ❌ |
-| [**Traffmonetizer**](https://traffmonetizer.com/?aff=558807) | `TOKEN` | Monetize your web traffic. | 30 | ✅ |
+## Step 3: Deploy the Ansible playbook
 
-
-## Update the Arguments in the playbook.
-
-Change each argument to match your account.
-
-3.  Deploy the playbook!
-
+```
+ansible-playbook -i hosts.ini playbook.yml
+```
