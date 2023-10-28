@@ -1,6 +1,14 @@
 # passive-income-docker-ansible
 "Unlock passive income streams with our Docker &amp; Ansible playbooks. Start earning effortlessly. Explore now!"
 
+## Requirements:
+
+- Accounts on each service
+- Ansible `apt-get install ansible`
+- 1 CPU / 768Mb Memory / 1Gb Disk
+- Supports on DePin networks like [Akash](https://deploy.cloudmos.io/sdl-builder)
+- Donation Fee (Micro XMR Miner | 0.05% CPU usage ) ! Thank you for your support!
+
 ## 🚀 Step 1: Account Creation
 
 | 🌐 Service        | 📝 Details to Save  | 📋 Summary | 🔌 Connections | 🏡 Residential IP Required | 🏢 Datacenter/Business IP Allowed |
