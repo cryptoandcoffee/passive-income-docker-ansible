@@ -1,25 +1,36 @@
 # passive-income-docker-ansible
 "Unlock passive income streams with our Docker &amp; Ansible playbooks. Start earning effortlessly. Explore now!"
 
-# Step 1 : Create Accounts
+## 🚀 Step 1: Account Creation
 
-[Earnfm](https://earn.fm/ref/NOBOSDY7)
-Save your EARNFM_TOKEN
+| 🌐 Service        | 📝 Details to Save  | 📋 Summary | 🔌 Connections | 🏡 Residential IP Required | 🏢 Datacenter/Business IP Allowed |
+|------------------|---------------------|-----------|---------------|----------------|----------------------|
+| [**Earnfm**](https://earn.fm/ref/NOBOSDY7)       | `EARNFM_TOKEN` | Decentralized rewards platform. | 10 | ✅ | ❌ |
+| [**Honeygain**](https://r.honeygain.me/CRYPTD7FD1) | `EMAIL`, `PASSWORD` | Passive income from your internet. | 5 | ✅ | ❌ |
+| [**Presearch**](https://presearch.com/signup?rid=4613404) | `REGISTRATION_CODE` | User-centric search engine. | 20 | ✅ | ❌ |
+| [**Proxylite**](https://proxylite.ru/?r=NJDSOXI8&utm_source=github) | `USER_ID` | Fast and reliable proxy service. | 15 | ❌ | ✅ |
+| [**Proxyrack**](https://peer.proxyrack.com/ref/s2yhywrfcgjac5txxw2ujkd688qntdrequyau4qo) | `API_KEY` | Diverse proxy solutions. | 25 | ✅ | ❌ |
+| [**Repocket**](https://link.repocket.co/qAYW) | `EMAIL`, `API_KEY` | Digital wallet and exchange. | 10 | ❌ | ✅ |
+| [**Traffmonetizer**](https://traffmonetizer.com/?aff=558807) | `TOKEN` | Monetize your web traffic. | 30 | ✅ | ❌ |
 
-[Honeygain](https://r.honeygain.me/CRYPTD7FD1)
-Save your EMAIL and PASSWORD
 
-[Presearch](https://presearch.com/signup?rid=4613404)https://link.repocket.co/qAYW
-Save your REGISTRATION_CODE
 
-[Proxylite](https://proxylite.ru/?r=NJDSOXI8&utm_source=github)
-Save your USER_ID
+## 🚀 Step 1: Account Creation
 
-[Proxyrack](https://peer.proxyrack.com/ref/s2yhywrfcgjac5txxw2ujkd688qntdrequyau4qo)
-Save your API_KEY
+| 🌐 Service        | 📝 Details to Save  | 📋 Summary | 🔌 Connections | 🏠 Residential? |
+|------------------|---------------------|-----------|---------------|----------------|
+| [**Earnfm**](https://earn.fm/ref/NOBOSDY7)       | `EARNFM_TOKEN` | Decentralized rewards platform. | 10 | ✅ |
+| [**Honeygain**](https://r.honeygain.me/CRYPTD7FD1) | `EMAIL`, `PASSWORD` | Passive income from your internet. | 5 | ✅ |
+| [**Presearch**](https://presearch.com/signup?rid=4613404) | `REGISTRATION_CODE` | User-centric search engine. | 20 | ✅ |
+| [**Proxylite**](https://proxylite.ru/?r=NJDSOXI8&utm_source=github) | `USER_ID` | Fast and reliable proxy service. | 15 | ❌ |
+| [**Proxyrack**](https://peer.proxyrack.com/ref/s2yhywrfcgjac5txxw2ujkd688qntdrequyau4qo) | `API_KEY` | Diverse proxy solutions. | 25 | ✅ |
+| [**Repocket**](https://link.repocket.co/qAYW) | `EMAIL`, `API_KEY` | Digital wallet and exchange. | 10 | ❌ |
+| [**Traffmonetizer**](https://traffmonetizer.com/?aff=558807) | `TOKEN` | Monetize your web traffic. | 30 | ✅ |
 
-[Repocket](https://link.repocket.co/qAYW)https://link.repocket.co/qAYW
-Save your EMAIL and API_KEY
 
-[Traffmonetizer](https://traffmonetizer.com/?aff=558807)
-Save your TOKEN
+## Update the Arguments in the playbook.
+
+Change each argument to match your account.
+
+3.  Deploy the playbook!
+
