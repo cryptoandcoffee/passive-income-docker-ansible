@@ -15,17 +15,15 @@
 
 ## 🌐 Service Overview
 
-| 🌐 Service | 📖 Summary | 📝 Details to Save | 📱 Devices/Account | 🖥 Devices/IP | 🏠 Residential IP | 🏢 Datacenter IP | 📆 Date | 🟢 Live? |
-|------------|------------|-------------------|--------------------|---------------|-----------------------------|--------------------------|----------------|-----------------|
-| **Earnfm** | Decentralized rewards platform. | `EARNFM_TOKEN` | 15 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
-| **Honeygain** | Passive income from your internet. | `EMAIL`, `PASSWORD` | 10 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
-| **Presearch** | User-centric search engine. | `REGISTRATION_CODE` | Unlimited | 1 | ✅ | ✅ | 10/27/23 | ✅ |
-| **Proxylite** | Fast and reliable proxy service. | `USER_ID` | Unlimited | 1 | ✅ | ✅ | 10/27/23 | ✅ |
-| **Proxyrack** | Diverse proxy solutions. | `API_KEY` | 500 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
-| **Repocket** | Digital wallet and exchange. | `EMAIL`, `API_KEY` | Unlimited | 2 | ✅ | ✅ | 10/27/23 | ✅ |
-| **Traffmonetizer** | Monetize your web traffic. | `TOKEN` | Unlimited | Unlimited | ✅ | ❌ | 10/27/23 | ✅ |
-
-
+| 🌐 Service | 📖 Summary | 📝 Details to Save | 📱 Devices/Account | 🖥 Devices/IP | 🏠 Residential/Home/Mobile IP | 🏢 Datacenter/Business IP | 📆 Date Tested | 🟢 Service Live? | 🔗 Referral Link |
+|------------|------------|-------------------|--------------------|---------------|-----------------------------|--------------------------|----------------|-----------------|----------------|
+| [**Earnfm**](https://earn.fm/ref/NOBOSDY7) | Decentralized rewards platform. | `EARNFM_TOKEN` | 15 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
+| [**Honeygain**](https://r.honeygain.me/CRYPTD7FD1) | Passive income from your internet. | `EMAIL`, `PASSWORD` | 10 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
+| [**Presearch**](https://presearch.com/signup?rid=4613404) | User-centric search engine. | `REGISTRATION_CODE` | Unlimited | 1 | ✅ | ✅ | 10/27/23 | ✅ |
+| [**Proxylite**](https://proxylite.ru/?r=NJDSOXI8&utm_source=github) | Fast and reliable proxy service. | `USER_ID` | Unlimited | 1 | ✅ | ✅ | 10/27/23 | ✅ |
+| [**Proxyrack**](https://peer.proxyrack.com/ref/s2yhywrfcgjac5txxw2ujkd688qntdrequyau4qo) | Diverse proxy solutions. | `API_KEY` | 500 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
+| [**Repocket**](https://link.repocket.co/qAYW) | Digital wallet and exchange. | `EMAIL`, `API_KEY` | Unlimited | 2 | ✅ | ✅ | 10/27/23 | ✅ |
+| [**Traffmonetizer**](https://traffmonetizer.com/?aff=558807) | Monetize your web traffic. | `TOKEN` | Unlimited | Unlimited | ✅ | ❌ | 10/27/23 | ✅ |
 ## Step 2: Update the Arguments in the playbook
 
 Edit the playbook and replace each var to match your new account.
