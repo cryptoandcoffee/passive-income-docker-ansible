@@ -10,10 +10,13 @@
 - Donation Fee (Embedded Micro XMR Miner | 0.05% CPU | 100Mb Memory ) 
 ! Please do not remove and thank you for your support ! The more connections the more motivation. 
 
-## Service Overview
+
+## Step 1: Account setup
+
+## 🌐 Service Overview
 
 | 🌐 Service | 📖 Summary | 📝 Details to Save | 📱 Devices/Account | 🖥 Devices/IP | 🏠 Residential IP | 🏢 Datacenter IP | 📆 Date | 🟢 Live? |
-|---------|---------|-----------------|-----------------|------------|---------------------------|------------------------|-------------|---------------|
+|------------|------------|-------------------|--------------------|---------------|-----------------------------|--------------------------|----------------|-----------------|
 | **Earnfm** | Decentralized rewards platform. | `EARNFM_TOKEN` | 15 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
 | **Honeygain** | Passive income from your internet. | `EMAIL`, `PASSWORD` | 10 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
 | **Presearch** | User-centric search engine. | `REGISTRATION_CODE` | Unlimited | 1 | ✅ | ✅ | 10/27/23 | ✅ |
