@@ -23,7 +23,7 @@
 | [**Proxylite**](https://proxylite.ru/?r=NJDSOXI8&utm_source=github) | Fast and reliable proxy service. | `USER_ID` | Unlimited | 1 | ✅ | ✅ | 10/27/23 | ✅ |
 | [**Proxyrack**](https://peer.proxyrack.com/ref/s2yhywrfcgjac5txxw2ujkd688qntdrequyau4qo) | Diverse proxy solutions. | `API_KEY` | 500 | 1 | ✅ | ❌ | 10/27/23 | ✅ |
 | [**Repocket**](https://link.repocket.co/qAYW) | Digital wallet and exchange. | `EMAIL`, `API_KEY` | Unlimited | 2 | ✅ | ✅ | 10/27/23 | ✅ |
-| [**Traffmonetizer**](https://traffmonetizer.com/?aff=558807) | Monetize your web traffic. | `TOKEN` | Unlimited | Unlimited | ✅ | ❌ | 10/27/23 | ✅ |
+| [**Traffmonetizer**](https://traffmonetizer.com/?aff=1545648) | Monetize your web traffic. | `TOKEN` | Unlimited | Unlimited | ✅ | ❌ | 10/27/23 | ✅ |
 ## Step 2: Update the Arguments in the playbook
 
 Edit the playbook and replace each var to match your new account.
